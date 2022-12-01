@@ -1,0 +1,226 @@
+id,nama,jumlah_masuk,tanggal_masuk,tanggal_expire
+1,Alopurinol tablet 100 mg ,6000,-,2023-09-01
+2,Amoksisilin kaplet  500 mg,6000,-,2023-05-01
+3,Betametason krim 0.1%,0,-,-
+4,Furosemid tablet 40 mg,0,-,-
+5,Isosorbid Dinitrat  tablet sublingual 5 mg,0,-,-
+6,Kotri tab:Sulfametoksazol 400 mg+Trimetoprim 80mg ,1500,-,2024-08-31
+7,"Lidokain komp. injeksi, Kombinasi: hcl",0,-,-
+8,Pirantel tablet 125 mg ,0,-,-
+9,Piridoksin HCl (Vit.B6) tablet 10 mg,0,-,-
+10,Retinol (vitamin a) kapsul 100.000 iu,0,-,-
+11,Retinol (vitamin a) kapsul 200.000 iu,0,-,-
+12,"Salep 2-4 , Kombinasi:",0,-,-
+13,Tiamin HCl / Mononitrat (Vit.B1) tablet 50 mg,0,-,-
+14,Vitamin B Kompleks tablet,0,-,-
+15,Amlodipin 10 mg,1000,-,2024-03-31
+16,Amlodipin 5 mg,2000,-,-
+17,Asiklovir 400 Mg,0,-,-
+18,Bisoprolol 5 Mg,0,-,-
+19,Diltiazem 30 Mg,0,-,-
+20,Ketokonazole 200 Mg Tab,500,-,2023-09-01
+21,Kloramfenikol salep mata 1 %,0,-,-
+22,Metformin 500 Mg,816,-,2023-08-31
+23,Metilprednisolon 4 Mg,900,-,2023-10-01
+24,Miconazole sk,7608,-,-
+25,Ofloxacin 200 Mg,0,-,-
+26,Aminopilin Tab,0,-,-
+27,Antasida DOEN,3800,-,2024-10-31
+28,Azytromicin Tab,0,-,-
+29,Bedak Salisil Pot,0,-,-
+30,"Colcitine 0,5 Tab",0,-,-
+31,Cotrimoksazole Suspensi,3120,-,2023-10-31
+32,Diazepam,0,-,-
+33,"Dumin 125mg/2,5ml",0,-,-
+34,Erithromicin,0,-,-
+35,Fimediab Tab,0,-,-
+36,Floxigra Tab 500,0,-,-
+37,Flukonazol,0,-,-
+38,Gasela Tab,0,-,-
+39,Glimepirid,0,-,-
+40,Grafadon Sirup,0,-,-
+41,Griseofulvin Tab,1700,-,-
+42,Hidrokortison Krim,0,-,-
+43,Inamid Tab,0,-,-
+44,Kamolas Tab,0,-,-
+45,Ketokonazole Krim,0,-,-
+46,Lansoprazole,2298,-,2023-08-31
+47,Loratadin,0,-,-
+48,NovaHeksin Tab,0,-,-
+49,Omecidal tablet,0,-,-
+50,Omegdiar,0,-,-
+51,Ometridryl Syrup,0,-,-
+52,Paper tape,0,-,-
+53,Phytomenadion Tab,0,-,-
+54,Prednisom Tab,1500,-,-
+55,Profoten,0,-,-
+56,Propanolol,150,-,-
+57,PTU,60,-,2025-06-01
+58,Quinin,0,-,-
+59,Rahistin,0,-,-
+60,Simvastatin 10 mg,1820,-,2023-04-01
+61,Simvastatin 20 mg,1200,-,-
+62,Sodium Diklofenac 50mg,2000,-,-
+63,Tetrasiklin Kapsul,0,-,-
+64,Tablet Tambah Darah,0,-,-
+65,Vitamin B 12,0,-,-
+66,Vitamin C Tab,0,-,-
+67,Zink Tab,0,-,-
+68,Oksitetrasiklin salep mata,0,-,-
+69,"Alprazolam 0,5mg ",0,-,-
+70,Chlorpromazine 100 mg,0,-,-
+71,Metilergometrin Maleat Injeksi,0,-,-
+72,"Captopril 12,5",200,-,-
+73,Cefixime 100MG,0,-,-
+74,phenobarbital,200,-,2026-03-01
+75,Berotec Inhaler,0,-,-
+76,Imunos,100,-,-
+77,Novapyron,200,-,-
+78,Becom C,158,-,-
+79,Scopma Plus,80,-,-
+80,Omegavit,174,-,-
+81,Trifed,60,-,-
+82,Folic Acid,85,-,-
+83,Curbion Kids,5000,-,-
+84,Antasida Doen suspensi 60 ml,0,-,-
+85,Paracetamol Drops 60ml,0,-,-
+86,Salep 2-4 pot plastik 15g,0,-,-
+87,Omeprazole,500,-,2023-07-01
+88,Asam mefenamat 500mg,4600,-,2023-06-01
+89,Becefort tab,219,-,-
+90,Salbutamol 4mg,450,-,2023-09-01
+91,Ranitidine,2500,-,2023-09-01
+92,Axtan kapsul,432,-,2024-08-31
+93,Tanapress 5 JKN,50,-,2024-12-01
+94,Amoxicilin dry sirup,21094,-,2023-06-30
+95,Calcium Lactate,912,-,2024-09-30
+96,Paracetamol syrup 60ML,2900,-,2024-07-31
+97,Metilergometrin Maleat Injeksi,200,-,2023-06-01
+98,Atorvastatin,1000,-,2022-12-01
+99,Cefixime 200mg,500,-,2023-05-01
+100,Cefixime dry syrup,1600,-,2023-06-01
+101,Cefadroxil 500mg,2991,-,2023-09-30
+102,Herbesser CD 200 JKN,50,-,2024-03-01
+103,Asam folat,150,-,2023-06-30
+104,Kodein 10mg,150,-,2026-02-01
+105,Ciprofloxacin 500mg,1900,-,2025-09-01
+106,Spironolakton,100,-,2022-12-01
+107,"Concor 1,25 mg JKN",100,-,2024-02-04
+108,KSR JKN,50,-,2024-03-01
+109,Pehavit- D3,334,-,-
+110,HCT,0,-,-
+111,Nistatin vaginal,10,-,-
+112,Natrium Diklofenak 25mg,700,-,-
+113,Trimol 500mg,0,-,-
+114,Ifitamol Sirup ,2400,-,2023-08-01
+115,Roverton HCL Kalpsul,909,-,2025-08-01
+116,Roverton HCL Sirup,960,-,2025-08-01
+117,Lerzin 10,454,-,2025-07-01
+118,Selkom C Gold,500,-,2022-04-01
+119,Becefort Sirup,450,-,-
+120,Methisoprinol tab,0,-,-
+121,Methisoprinol sirup,0,-,-
+122,Parasetamol Tab 500,0,-,-
+123,Retadryl,0,-,-
+124,Oralit,0,-,-
+125,Captopril 25mg,1500,-,-
+126,Entecarir monohidrat,0,-,-
+127,Nitoukaf P,0,-,-
+128,Glimepirid tab,0,-,-
+129,Phytomenadion Inj,0,-,-
+130,Ketoprofen,0,-,-
+131,Favirapir,0,-,-
+132,Metilergometrin Maleat Tab,0,-,-
+133,Ergotamin Cafein,0,-,-
+134,Adalat Oral,0,-,-
+135,HCT,100,-,-
+136,Ibuprofen sirup,0,-,-
+137,pehavral,235,-,-
+138,AC Swabs,0,-,-
+139,Alat suntik sekali pakai 10 ml,50,-,-
+140,"Alat Suntik sekali Pakai 2,5ml",0,-,-
+141,Alat Suntik Sekali Pakai 3ml,0,-,-
+142,Alat suntik sekali pakai 5 ml,0,-,-
+143,Asm Sling Comfort,0,-,-
+144,Aximed Female Cateter No 16,0,-,-
+145,Aximed Female Cateter No 18,0,-,-
+146,Blood Lancef 26G,0,-,-
+147,Blood Lancef 28G,0,-,-
+148,Dextrose 10 %,0,-,-
+149,Eskamed  I.V Canula no 22,0,-,-
+150,Eskamed  I.V Canula no 24,0,-,-
+151,Eskamed  I.V Canula no 26,0,-,-
+152,Eskamed Blood Transfusion Set,0,-,-
+153,Eskamed InfusSet With Needle,0,-,-
+154,Eskamed IV Canula Without Inj Port & Wings 18,0,-,-
+155,Eskamed IV Canula Without Inj Port & Wings 20,0,-,-
+156,Eskamed Stopcock Three Way,0,-,-
+157,Gliserin,0,-,-
+158,Handschoen no 8,0,-,-
+159,Kapas Berlemak 500 gram,0,-,-
+160,Kapas Pembalut / Absorben 250 gram,0,-,-
+161,Kapas pembalut / Absorben 500 gram,0,-,-
+162,Kasa kompres 40x40,5001,-,-
+163,Papsmer Kir,0,-,-
+164,Plester Roll  5 x 5,1000,-,-
+165,Plesterin Bulat non woven,450,-,-
+166,Povidon Iodida 10 % 300ml,0,-,-
+167,Povidon Iodida 10 % 30ml,0,-,-
+168,Ringer Laktat larutan infus steril (Produk lokal),0,-,-
+169,Sodium Bicarbonat,0,-,-
+170,"NACL0,9",200,-,-
+171,Stomach Tube,0,-,-
+172,Ultramed Tespack,10000,-,-
+173,Urine Drynage Bage,500,-,-
+174,Yakadine 30ml,0,-,-
+175,Dextrose 5 %,0,-,-
+176,Bio Axi Face Mask Earloop,0,-,-
+177,Alc peroxide Antiseptik,0,-,-
+178,Kasa Hidrofil 4m x 10m,12000,-,-
+179,Kasa steril 16 x 16,2307,-,-
+180,Kasa Hidrofil 4m x 5m,4000,-,-
+181,Kasa hidrofil 4m x 15m,10000,-,-
+182,Plesterin Jumbo,602,-,-
+183,Sarung tangan obgyn onemed,200,-,-
+184,Nurse cap,1810,-,2026-09-01
+185,One scrub dispenser 500ml,100,-,-
+186,Surgeon Cap Onemed,110,-,-
+187,Surgical mask earloop 3 ply,3002,-,-
+188,Surgical mask earloop 3 ply hijab,2500,-,-
+189,Infusset dewasa stera,600,-,-
+190,Infusset Anak stera,300,-,-
+191,Blood Transfusion set stera,300,-,-
+192,IV canulla w/ teflon cath 1 way 18G,5000,-,-
+193,IV canulla w/ teflon cath 1 way 20G,6000,-,-
+194,IV canulla w/ teflon cath 1 way 22G,5000,-,-
+195,IV canulla w/ teflon cath 1 way 24G,4000,-,-
+196,Oxyflow Anak Besmed,500,-,-
+197,Oxyflow Dewasa Besmed,1500,-,-
+198,Oxyflow Bayi Besmed,500,-,-
+199,Mucus Extrator Onemed,2000,-,-
+200,Maxiflow Anak Besmed,200,-,-
+201,Maxiflow Dewasa Besmed,500,-,-
+202,Safety box,1000,-,-
+203,Shoe Cover APD besar Onemed,200,-,-
+204,Nebulizer mask set dewasa besmed,300,-,-
+205,Nebulizer mask set Anak besmed,100,-,-
+206,Hi-oxy mask dewasa besmed,500,-,-
+207,Hi-oxy mask anak besmed,200,-,-
+208,Isopore Silk 2 Inch x 10 yard ,50,-,-
+209,"Disposible  insulin 0,5ml",24,-,-
+210,Umbicall cord clamp,20000,-,-
+211,Coverall Seam Tape ,200,-,-
+212,Kasa hidrofil 40 x 80 ,400,-,-
+213,Disposible 1ml,0,-,-
+214,"Senso surge gloves 6,0",1100,-,2026-05-01
+215,"Senso surge gloves 6,5",1050,-,2026-07-01
+216,"Senso surge gloves 7,0",1000,-,2026-08-01
+217,"Senso surge gloves 7,5",1000,-,2026-07-01
+218,FACESHIELD,2727,-,-
+219,Medika Alkohol 20L,555,-,-
+220,Medika Alkohol 1L,500,-,-
+221,"Baymed chlorhexidine 0,5% 20L",170,-,-
+222,"Baymed chlorhexidine0,5% 500ml",170,-,-
+223,Baymed alkohol swab ply 3,13880,-,-
+224,Oneswabs 100's,5535,-,-
+225,Safety syrg 3cc,24,-,-
